@@ -78,8 +78,8 @@ const About = () => {
                 <h2 className="font-general text-sm uppercase md:text-[10px]" >HAPPY IN VOID</h2>
                 <AnimatedTitle title="Latin America’s gaming revolution." containerClass="mt-5 !text-black text-center" />
                 <div className="about-subtext" >
-                    <p>The Game of Games begins-your life, now an epic </p>
-                    <p>Zentry unites every player from countless games and platforms</p>
+                    {/* <p>The Game of Games begins-your life, now an epic </p>
+                    <p>Zentry unites every player from countless games and platforms</p> */}
                 </div>
             </div>
             <div className="h-dvh w-screen" id="clip" >
