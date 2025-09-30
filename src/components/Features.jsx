@@ -129,7 +129,7 @@ const Features = () => (
             src="videos/about4.mp4"
             title={
               <>
-                HOTTEST MUSIC SOUNDTRACK
+                A one-of-a-kind Latin gaming music experience.
               </>
             }
             description="Void features the hottest Latin America Artists."
