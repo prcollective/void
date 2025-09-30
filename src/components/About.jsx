@@ -76,7 +76,7 @@ const About = () => {
         <div id="about" className="min-h-screen w-screen" >
             <div className="relative mb-8 mt-36 flex flex-col items-center gap-5" >
                 <h2 className="font-general text-sm uppercase md:text-[10px]" >HAPPY IN VOID</h2>
-                <AnimatedTitle title="The first gaming maps for Latin America." containerClass="mt-5 !text-black text-center" />
+                <AnimatedTitle title="Latin America’s gaming revolution." containerClass="mt-5 !text-black text-center" />
                 <div className="about-subtext" >
                     <p>The Game of Games begins-your life, now an epic </p>
                     <p>Zentry unites every player from countless games and platforms</p>
