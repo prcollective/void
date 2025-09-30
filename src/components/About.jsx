@@ -76,7 +76,7 @@ const About = () => {
         <div id="about" className="min-h-screen w-screen" >
             <div className="relative mb-8 mt-36 flex flex-col items-center gap-5" >
                 <h2 className="font-general text-sm uppercase md:text-[10px]" >HAPPY IN VOID</h2>
-                <AnimatedTitle title="Disc<b>o</b>ver the world's <br /> l<b>a</b>rgest reggaeton stars" containerClass="mt-5 !text-black text-center" />
+                <AnimatedTitle title="The first gaming maps for Latin America." containerClass="mt-5 !text-black text-center" />
                 <div className="about-subtext" >
                     <p>The Game of Games begins-your life, now an epic </p>
                     <p>Zentry unites every player from countless games and platforms</p>
@@ -85,7 +85,7 @@ const About = () => {
             <div className="h-dvh w-screen" id="clip" >
                 <div className="mask-clip-path about-image relative overflow-hidden" >
                     <video
-                        src="videos/aboutvideo.mp4"
+                        src="videos/about3.mp4"
                         autoPlay
                         muted
                         loop
