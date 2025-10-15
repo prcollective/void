@@ -115,10 +115,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              BOOMING
+              ENDLESS REWARDS
             </>
           }
-          description="From classic lobbies to blockchain battles, every click hits to the rhythm. One platform, endless rewards. Play, Earn, Rep Tu Flow."
+          description="From classic lobbies to blockchain battles, every click hits to the rhythm. Join the Tournments: Play, Earn, Rep Tu Flow."
           isComingSoon
         />
       </BentoTilt>
@@ -129,10 +129,10 @@ const Features = () => (
             src="videos/about4.mp4"
             title={
               <>
-                A one-of-a-kind Latin gaming music experience.
+                LATIN music experience.
               </>
             }
-            description="Void features the hottest Latin America Artists."
+            description="Our built-in music platform brings reggaeton rhythm and latin beats to every match. Play, earn and vibe in one flow.  Power up your game with music that hits as hard as you play."
             isComingSoon
           />
         </BentoTilt>
@@ -142,10 +142,10 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+               MARKETPLACE
               </>
             }
-            description="A gamified social platform that rewards users for their engagement."
+            description="Trade and monetize your in-game assets, weapons, and skins effortlessly to unlock real value and enhance your gaming experience."
             isComingSoon
           />
          
@@ -156,10 +156,10 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                AIRDROP
               </>
             }
-            description=" A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+            description="Introducing VOID, our native token powering every move in the metagame. From play-to-earn rewards to NFT trades and marketplace drops, VOID fuels the entire ecosystem-briding gamer, music, and culture into one dital economy."
             isComingSoon
           />
          
@@ -168,7 +168,7 @@ const Features = () => (
         <BentoTilt className="bento-tilt_2">
           <div className="flex size-full flex-col justify-between bg-violet-300 p-5">
             <h1 className="bento-title special-font max-w-64 text-black">
-              M<b>o</b>re co<b>m</b>ing s<b>o</b>on.
+              CONNECT ON VOID SOCIALS
             </h1>
 
             <TiLocationArrow className="m-5 scale-[5] self-end" />

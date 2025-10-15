@@ -37,7 +37,7 @@ const Story = () => {
         <section id="story" className="min-h-dvh w-screen bg-black text-blue-50" >
             <div className="flex size-full flex-col items-center py-10 pb-24" >
                 <p className="font-general text-sm uppercase md:text-[10px]">
-                   THE FIRST EVER
+                 
                 </p>
                 <div className="relative size-full" >
                     <AnimatedTitle
@@ -69,9 +69,9 @@ const Story = () => {
                 <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
                     <div className="flex h-full w-fit flex-col items-center md:items-start">
                         <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
-                            Where the ordinary meets the extraordinary. We are going to take you on a journey through the hidden realm of the multiversal IP world.
+                            Experience the culture not just the game.  Our world recreates real Latin American neighborhoods, from La Perla's coastal edge to Comuna 13's colorful heights - each one alive with sound, rhythm, and competition. Play in maps inspired by real streets, real stories and real Latin Energy.
                         </p>
-                        <Button id="realm-btn" title="discover prologue" containerClass="mt-5" />
+                        <Button id="realm-btn" title="discover La Perla" containerClass="mt-5" />
                     </div>
                 </div>
             </div>
