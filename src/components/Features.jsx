@@ -107,7 +107,7 @@ const Features = () => (
           Play to Earn Gaming Platform
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Jump in and flex your skills—this is Latin gamer turf. Here, everyone’s grinding, pushing, and going for GG only. No campers, no noobs, just pure squad energy shredding the match.        </p>
+          Latin energy. Reggaeton rhythm. Gaming grind. This is where you play, earn and vibe. No limits, no breaks—just puro fuego en cada partida﻿</p>
       </div>
 
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
@@ -115,10 +115,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              BOOMING
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+          description="From classic lobbies to blockchain battles, every click hits to the rhythm. One platform, endless rewards. Play, Earn, Rep Tu Flow."
           isComingSoon
         />
       </BentoTilt>
